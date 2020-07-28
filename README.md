@@ -1,2 +1,4 @@
 # Julia Set Animation
-Generate images of Julia sets and create video animation of Julia set sequence. See resulting animation at: https://www.youtube.com/watch?v=xrxp-0CHZGM
+Generate images of Julia sets and create video animation of Julia set sequence.
+[See resulting animation at](https://www.youtube.com/watch?v=xrxp-0CHZGM)
+For method used to create individual Julia set images, see [this](https://scipython.com/book/chapter-7-matplotlib/problems/p72/the-julia-set)
